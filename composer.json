@@ -1,10 +1,9 @@
 {
-    "name": "pear/net_nntp",
+    "name": "heino/php-nntp",
     "description": "Modernized version of PEAR's Net_NNTP for communication with NNTP/Usenet servers.",
-	"homepage": "http://pear.php.net/package/Net_NNTP",
+	"homepage": "https://github.com/heino/php-nntp",
     "type": "library",
     "license": "W3C",
-    "version": "2.0.0-dev",
     "authors": [
         {
             "name": "Heino H. Gehlsen",
@@ -13,8 +12,8 @@
         }
     ],
     "support": {
-        "issues": "http://pear.php.net/bugs/search.php?cmd=display&package_name[]=Net_NNTP",
-        "source": "https://github.com/pear/Net_NNTP"
+        "issues": "https://github.com/heino/php-nntp/issues",
+        "source": "https://github.com/heino/php-nntp"
     },
     "autoload": {
         "psr-0": {
